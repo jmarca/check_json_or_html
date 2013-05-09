@@ -1,0 +1,31 @@
+{
+  "name": "check_json_or_html",
+  "version": "0.0.1",
+  "description": "tiny module to check if a response accepts json or html",
+  "main": "check_res_accept.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": "",
+    "express": "",
+    "superagent": "",
+      "jade":""
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmarca/check_json_or_html"
+  },
+  "keywords": [
+    "JSON",
+    "html",
+    "express",
+    "server"
+  ],
+  "author": "James E. Marca",
+  "license": "MIT"
+}
